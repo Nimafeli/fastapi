@@ -1,0 +1,8 @@
+{
+  "app": "compassionate-booth-c6d8bwezp",
+  "port": 3000,
+  "build": {
+    "location": "iran"
+  },
+  "disks": []
+}
